@@ -21,3 +21,10 @@
 <hr><br>
 <h3> Processo de produção dos gráficos. </h3>
 <p> Utilizei do meu conhecimento em Python. E o google colaboratory, com bibliotecas numpy, pandas, e matplotlib (= Fiz umas pizzas:
+
+  <img src="https://user-images.githubusercontent.com/84605928/122682627-ff350680-d1d0-11eb-9973-8aa6e0c0cb44.png"/>
+ <img src="https://user-images.githubusercontent.com/84605928/122682720-84b8b680-d1d1-11eb-8369-b4af95c797af.png"/>
+  
+  <p>Como da pra ver o paraguay tomou quase 100% do espaço então resolvi fazer um sem ele:</p>
+  <img src="https://user-images.githubusercontent.com/84605928/122682773-c9445200-d1d1-11eb-828a-765aeb4129ee.png"/>
+
