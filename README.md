@@ -20,4 +20,4 @@
   <p>Além disso ele colou a taxa de mortalidade da policia militar, que é uma das mais altas do mundo, 72%, mas infelizmente ele pesquisou com pressa, e à informação dele está 100% incorreta, 72% de mortalidade é algo inexistente e impensante, a taxa correta é de 0,83 morte de policial para cada um milhão de habitantes, ou seja, morre menos de um policial para cada 1mi de habitantes no Brasil. É uma taxa grande em comparação com outros países como Argentina(0,48) que é 72% menor que a do Brazil, ou a do Reino Unido(0,014) que é 6000% menor que a da Argentina.</p>
 <hr><br>
 <h3> Processo de produção dos gráficos. </h3>
-  
+<p> Utilizei do meu conhecimento em Python. E o google colaboratory, com bibliotecas numpy, pandas, e matplotlib (= Fiz umas pizzas:
